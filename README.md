@@ -9,10 +9,6 @@ Naaptol is a prominent e-commerce platform in India, offering a wide variety of 
 <br>
 <div align="center"><img width=40% height="300px" src="https://media1.tenor.com/m/U3gdp2isP3EAAAAd/programming-software-testing.gif"></div>
 <br>
-<br>
-
-
-
 
 ## Project Features
 
