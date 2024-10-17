@@ -2,7 +2,7 @@
 
 # Automated Testing Solutions for Naaptol Using Selenium-Java
 
-Project Overview:
+## Project Overview:
 
 Naaptol is a prominent e-commerce platform in India, offering a wide variety of products across multiple categories. This project focuses on automating functional testing for the Sports & Fitness category using Selenium and Java, ensuring a reliable shopping experience for users.
 
