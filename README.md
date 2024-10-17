@@ -1,4 +1,5 @@
-<div><img src="https://github.com/Khalid786-gif/Naaptol_Using_Selenium/blob/master/gif1.gif"></div>
+<div><img width="90%" height="300px" src="https://github.com/Khalid786-gif/Naaptol_Using_Selenium/blob/master/Banner_Img.gif"></div>
+
 # Automated Testing Solutions for Naaptol Using Selenium-Java
 
 Project Overview:
